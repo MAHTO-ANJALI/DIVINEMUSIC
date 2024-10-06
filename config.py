@@ -19,7 +19,7 @@ MONGO_DB_URI = "mongodb+srv://kuldiprathod2003:kuldiprathod2003@cluster0.wxqpikp
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = -1001861619812
+LOG_GROUP_ID = -1002448072343
 
 # Get this value from @ultron2_robot on Telegram by /id
 OWNER_ID = 7200682353
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "BQFHUzcAvVjlHNyVlU8kVGLyUFetWAV_LS7Tuy-Q9XLWNvHK7rcNgtVUU-J1WULIc-xewWZGpDw3DjfyBNADK3tmm9gDhojYjj3sadE1egMG_mZfmRd2ZHRHGF8kqSw1rWajg9S0c55LLUWjlk2Mt0VCBz-Tuj3gYem4_vdRe6Cs9_iNEWvp3wKuu6DsrgevZVZ97E0g6xNgO5OESjwO5YhY-uQzfemkznitkaS1koscAigZYeM2Ab9qlYAr5S3F_3SedXXWtKDkOhQVWpfRhXBqlKUTpGr41nj_I_rJdkLT6YhQNtLZD3pKV_SdqbIz5HGqnOVlzDqv9hbcx3cFEIe6eH2SrQAAAAHKKhnQAA"
+STRING1 = "BQFHUzcAwXMaPYWttFiEwVTgPPdekLHgowUI6khIYAGGRJh-eX43HumcHXBCu4qutP48g-E_nXvoB_CSvoiNk2ClwbgJ7FZirxO1zOFgs0Vfz88-wim6d14MpKyVM-xGTfa--v8YH3rJ7RkFcv-iB3w7d_6lPKahey8TISLFTqoFt1WriVG5ab5jViLBJrJga9Z_Y4YYqs_ZY2rkfAuKSFCJAZc8zt9xvWl5ZsUGXGMr9TC_FlzrRpyZNSeJ1h6V4cCwEvzgTL1PLB9hFsTy0-Y-YvNkMXyzlSJN2JbDckm5b5BBAJNytleD90JIuXJTehSG3z7rjJX75CHkY4e67xF7RljIrAAAAAHBkSYgAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
